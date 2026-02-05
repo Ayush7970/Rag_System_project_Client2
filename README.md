@@ -15,8 +15,6 @@ A web UI for running research-style chat conversations against a project knowled
 > Add these images to the repo (recommended path: `docs/images/`) and keep the same filenames.
 
 ![Project chat view](project-chat.png)  
-![Sources + citations](sources-panel.png)  
-![Project list](projects.png)  
 ![Knowledge base settings](kb-settings.png)  
 ![Knowledge base documents](kb-documents.png)
 
