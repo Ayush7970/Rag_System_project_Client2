@@ -32,9 +32,9 @@ https://lucid.app/lucidchart/8caa218d-8dd2-4dc0-8c86-2fb64fbac522/edit
 
 ## YouTube Demo
 
-> Replace `YOUR_VIDEO_ID` with your Loom/YouTube video id.
 
-- Demo video: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+
+- Demo video: https://www.youtube.com/watch?v=c7OgpAD53sU
 
 (Optional embed preview)
 
