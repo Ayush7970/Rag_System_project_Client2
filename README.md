@@ -1,6 +1,6 @@
-# OpenSlate — Frontend
+# RAG Agentic System — Frontend
 
-A modern web UI for running research-style chat conversations against a project knowledge base. The frontend provides project management, conversation threads, document uploads, retrieval settings, and a clean “sources” UX to support grounded answers.
+A web UI for running research-style chat conversations against a project knowledge base. The frontend supports project management, conversation threads, document uploads, retrieval settings, and a “sources” experience for grounded answers.
 
 ---
 
@@ -50,7 +50,7 @@ https://lucid.app/lucidchart/8caa218d-8dd2-4dc0-8c86-2fb64fbac522/edit
 
 - **Projects**
   - Create and browse projects
-  - Quick search, grid/list views, and clean navigation
+  - Quick search, grid/list views, and navigation
 - **Conversations**
   - Chat threads per project
   - Grounded responses with a **Sources** panel
@@ -170,6 +170,3 @@ This is typically routed through `src/lib/api.ts`.
 
 ---
 
-## License
-
-Add your preferred license here (MIT/Apache-2.0/etc.).
