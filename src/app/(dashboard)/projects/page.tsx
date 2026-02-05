@@ -50,7 +50,7 @@ function ProjectsPage() {
 
       const token = await getToken();
 
-      const result = await apiClient.get("/api/projects", token);
+      const result = await apiClient.get("/api/projects/", token);
 
       const { data } = result || {};
 
@@ -71,7 +71,7 @@ function ProjectsPage() {
       const token = await getToken();
 
       const result = await apiClient.post(
-        "/api/projects",
+        "/api/projects/",
         {
           name,
           description,
